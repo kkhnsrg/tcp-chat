@@ -1,0 +1,25 @@
+E:\универ\4 семестр\КСиС\TCP_Chat\TCP_Chat\bin\Release\TCP_Chat.exe.config
+E:\универ\4 семестр\КСиС\TCP_Chat\TCP_Chat\bin\Release\TCP_Chat.exe
+E:\универ\4 семестр\КСиС\TCP_Chat\TCP_Chat\bin\Release\TCP_Chat.pdb
+E:\универ\4 семестр\КСиС\TCP_Chat\TCP_Chat\obj\Release\TCP_Chat.exe
+E:\универ\4 семестр\КСиС\TCP_Chat\TCP_Chat\obj\Release\TCP_Chat.pdb
+E:\универ\4 семестр\КСиС\Chat\TCP_Chat\TCP_Chat\bin\Release\TCP_Chat.exe.config
+E:\универ\4 семестр\КСиС\Chat\TCP_Chat\TCP_Chat\obj\Release\TCP_Chat.exe
+E:\универ\4 семестр\КСиС\Chat\TCP_Chat\TCP_Chat\obj\Release\TCP_Chat.pdb
+E:\универ\4 семестр\КСиС\Chat\TCP_Chat\TCP_Chat\bin\Release\TCP_Chat.exe
+E:\универ\4 семестр\КСиС\Chat\TCP_Chat\TCP_Chat\bin\Release\TCP_Chat.pdb
+E:\универ\4 семестр\КСиС\Chat\TCP_Chat\TCP_Chat\obj\Release\TCP_Chat.csprojResolveAssemblyReference.cache
+D:\Ucheba\4_semestr\4 семестр\КСиС\Chat\TCP_Chat\TCP_Chat\bin\Release\TCP_Chat.exe.config
+D:\Ucheba\4_semestr\4 семестр\КСиС\Chat\TCP_Chat\TCP_Chat\bin\Release\TCP_Chat.exe
+D:\Ucheba\4_semestr\4 семестр\КСиС\Chat\TCP_Chat\TCP_Chat\bin\Release\TCP_Chat.pdb
+D:\Ucheba\4_semestr\4 семестр\КСиС\Chat\TCP_Chat\TCP_Chat\obj\Release\TCP_Chat.csprojResolveAssemblyReference.cache
+D:\Ucheba\4_semestr\4 семестр\КСиС\Chat\TCP_Chat\TCP_Chat\obj\Release\TCP_Chat.csproj.CoreCompileInputs.cache
+D:\Ucheba\4_semestr\4 семестр\КСиС\Chat\TCP_Chat\TCP_Chat\obj\Release\TCP_Chat.exe
+D:\Ucheba\4_semestr\4 семестр\КСиС\Chat\TCP_Chat\TCP_Chat\obj\Release\TCP_Chat.pdb
+C:\Users\iseko\Desktop\Chat\TCP_Chat\TCP_Chat\bin\Release\TCP_Chat.exe.config
+C:\Users\iseko\Desktop\Chat\TCP_Chat\TCP_Chat\bin\Release\TCP_Chat.exe
+C:\Users\iseko\Desktop\Chat\TCP_Chat\TCP_Chat\bin\Release\TCP_Chat.pdb
+C:\Users\iseko\Desktop\Chat\TCP_Chat\TCP_Chat\obj\Release\TCP_Chat.csprojResolveAssemblyReference.cache
+C:\Users\iseko\Desktop\Chat\TCP_Chat\TCP_Chat\obj\Release\TCP_Chat.csproj.CoreCompileInputs.cache
+C:\Users\iseko\Desktop\Chat\TCP_Chat\TCP_Chat\obj\Release\TCP_Chat.exe
+C:\Users\iseko\Desktop\Chat\TCP_Chat\TCP_Chat\obj\Release\TCP_Chat.pdb

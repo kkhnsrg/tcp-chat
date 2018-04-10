@@ -1,0 +1,6 @@
+E:\универ\4 семестр\КСиС\TCP_Chat\TCP_Chat\bin\Debug\TCP_Chat.exe.config
+E:\универ\4 семестр\КСиС\TCP_Chat\TCP_Chat\bin\Debug\TCP_Chat.exe
+E:\универ\4 семестр\КСиС\TCP_Chat\TCP_Chat\bin\Debug\TCP_Chat.pdb
+E:\универ\4 семестр\КСиС\TCP_Chat\TCP_Chat\obj\Debug\TCP_Chat.csprojResolveAssemblyReference.cache
+E:\универ\4 семестр\КСиС\TCP_Chat\TCP_Chat\obj\Debug\TCP_Chat.exe
+E:\универ\4 семестр\КСиС\TCP_Chat\TCP_Chat\obj\Debug\TCP_Chat.pdb
