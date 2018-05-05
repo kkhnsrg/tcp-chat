@@ -1,29 +1,10 @@
-E:\универ\4 семестр\КСиС\Chat\TCP_Client\TCP_Client\bin\Release\TCP_Client.exe.config
-E:\универ\4 семестр\КСиС\Chat\TCP_Client\TCP_Client\bin\Release\TCP_Client.exe
-E:\универ\4 семестр\КСиС\Chat\TCP_Client\TCP_Client\bin\Release\TCP_Client.pdb
-E:\универ\4 семестр\КСиС\Chat\TCP_Client\TCP_Client\obj\Release\TCP_Client.fClient.resources
-E:\универ\4 семестр\КСиС\Chat\TCP_Client\TCP_Client\obj\Release\TCP_Client.Properties.Resources.resources
-E:\универ\4 семестр\КСиС\Chat\TCP_Client\TCP_Client\obj\Release\TCP_Client.csproj.GenerateResource.Cache
-E:\универ\4 семестр\КСиС\Chat\TCP_Client\TCP_Client\obj\Release\TCP_Client.exe
-E:\универ\4 семестр\КСиС\Chat\TCP_Client\TCP_Client\obj\Release\TCP_Client.pdb
-E:\универ\4 семестр\КСиС\Chat\TCP_Client\TCP_Client\obj\Release\TCP_Client.csprojResolveAssemblyReference.cache
-D:\Ucheba\4_semestr\4 семестр\КСиС\Chat\TCP_Client\TCP_Client\bin\Release\TCP_Client.exe.config
-D:\Ucheba\4_semestr\4 семестр\КСиС\Chat\TCP_Client\TCP_Client\bin\Release\TCP_Client.exe
-D:\Ucheba\4_semestr\4 семестр\КСиС\Chat\TCP_Client\TCP_Client\bin\Release\TCP_Client.pdb
-D:\Ucheba\4_semestr\4 семестр\КСиС\Chat\TCP_Client\TCP_Client\obj\Release\TCP_Client.csprojResolveAssemblyReference.cache
-D:\Ucheba\4_semestr\4 семестр\КСиС\Chat\TCP_Client\TCP_Client\obj\Release\TCP_Client.fClient.resources
-D:\Ucheba\4_semestr\4 семестр\КСиС\Chat\TCP_Client\TCP_Client\obj\Release\TCP_Client.Properties.Resources.resources
-D:\Ucheba\4_semestr\4 семестр\КСиС\Chat\TCP_Client\TCP_Client\obj\Release\TCP_Client.csproj.GenerateResource.cache
-D:\Ucheba\4_semestr\4 семестр\КСиС\Chat\TCP_Client\TCP_Client\obj\Release\TCP_Client.csproj.CoreCompileInputs.cache
-D:\Ucheba\4_semestr\4 семестр\КСиС\Chat\TCP_Client\TCP_Client\obj\Release\TCP_Client.exe
-D:\Ucheba\4_semestr\4 семестр\КСиС\Chat\TCP_Client\TCP_Client\obj\Release\TCP_Client.pdb
-C:\Users\iseko\Desktop\Chat\TCP_Client\TCP_Client\bin\Release\TCP_Client.exe.config
-C:\Users\iseko\Desktop\Chat\TCP_Client\TCP_Client\bin\Release\TCP_Client.exe
-C:\Users\iseko\Desktop\Chat\TCP_Client\TCP_Client\bin\Release\TCP_Client.pdb
-C:\Users\iseko\Desktop\Chat\TCP_Client\TCP_Client\obj\Release\TCP_Client.csprojResolveAssemblyReference.cache
-C:\Users\iseko\Desktop\Chat\TCP_Client\TCP_Client\obj\Release\TCP_Client.fClient.resources
-C:\Users\iseko\Desktop\Chat\TCP_Client\TCP_Client\obj\Release\TCP_Client.Properties.Resources.resources
-C:\Users\iseko\Desktop\Chat\TCP_Client\TCP_Client\obj\Release\TCP_Client.csproj.GenerateResource.cache
-C:\Users\iseko\Desktop\Chat\TCP_Client\TCP_Client\obj\Release\TCP_Client.csproj.CoreCompileInputs.cache
-C:\Users\iseko\Desktop\Chat\TCP_Client\TCP_Client\obj\Release\TCP_Client.exe
-C:\Users\iseko\Desktop\Chat\TCP_Client\TCP_Client\obj\Release\TCP_Client.pdb
+C:\Users\mseko\Desktop\TCP-Chat-master\TCP_Client\TCP_Client\bin\Release\TCP_Client.exe.config
+C:\Users\mseko\Desktop\TCP-Chat-master\TCP_Client\TCP_Client\bin\Release\TCP_Client.exe
+C:\Users\mseko\Desktop\TCP-Chat-master\TCP_Client\TCP_Client\bin\Release\TCP_Client.pdb
+C:\Users\mseko\Desktop\TCP-Chat-master\TCP_Client\TCP_Client\obj\Release\TCP_Client.csprojResolveAssemblyReference.cache
+C:\Users\mseko\Desktop\TCP-Chat-master\TCP_Client\TCP_Client\obj\Release\TCP_Client.fClient.resources
+C:\Users\mseko\Desktop\TCP-Chat-master\TCP_Client\TCP_Client\obj\Release\TCP_Client.Properties.Resources.resources
+C:\Users\mseko\Desktop\TCP-Chat-master\TCP_Client\TCP_Client\obj\Release\TCP_Client.csproj.GenerateResource.cache
+C:\Users\mseko\Desktop\TCP-Chat-master\TCP_Client\TCP_Client\obj\Release\TCP_Client.csproj.CoreCompileInputs.cache
+C:\Users\mseko\Desktop\TCP-Chat-master\TCP_Client\TCP_Client\obj\Release\TCP_Client.exe
+C:\Users\mseko\Desktop\TCP-Chat-master\TCP_Client\TCP_Client\obj\Release\TCP_Client.pdb
